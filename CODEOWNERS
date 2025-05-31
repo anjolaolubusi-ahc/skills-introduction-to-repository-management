@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @anjolaolubusi-ahc
+/src/backend/database.py      @anjolaolubusi-ahc
+/src/backend/routers/auth.py  @anjolaolubusi-ahc
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @anjolaolubusi-ahc
